@@ -21,4 +21,8 @@ Create Log
 
 ![Create_Log](https://user-images.githubusercontent.com/59774953/104797702-2ef96180-578e-11eb-895a-97cd54a9f9d5.png) 
 
+Front Page
+![front_page](https://user-images.githubusercontent.com/59774953/104797748-7384fd00-578e-11eb-94e9-8a76e8b560a2.png) 
 
+User Input
+![User](https://user-images.githubusercontent.com/59774953/104797750-77188400-578e-11eb-8bae-4722ec0d25c6.JPG)
