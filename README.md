@@ -15,4 +15,10 @@ multiple youtube viddeos and the video covering how to develop a MERN stack
 project. 
 
 This app keeps track of the users fitness through storing the data of multiple users and 
-the data they performed the activity and the description of the activity. 
+the data they performed the activity and the description of the activity.  
+
+Create Log
+
+![Create_Log](https://user-images.githubusercontent.com/59774953/104797702-2ef96180-578e-11eb-895a-97cd54a9f9d5.png) 
+
+
